@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_home" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_host_fragment" type="id" />
+    <item name="nav_profile" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="nav_view" type="id" />
+</resources>

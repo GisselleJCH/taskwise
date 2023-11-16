@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">taskwise</string>
+    <string name="hamburger_button" />
+    <string name="nueva_lista">Nueva lista</string>
+    <string name="titulo_lista">Escribe el título de la lista</string>
+    <string name="cancelar_lista">Cancelar</string>
+    <string name="crear_lista">Crear lista</string>
+
+</resources>
